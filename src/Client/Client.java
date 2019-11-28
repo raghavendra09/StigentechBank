@@ -36,5 +36,5 @@ public class Client {
 		dm.sellingOfShare();
 		
 	}
-
+ System.out.println("Main class is nothing but Client Class");
 }
